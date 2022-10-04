@@ -2,7 +2,7 @@
 
 Sometimes you may find yourself forgetting these key Cargo commands while you work on your projects.
 
-Here are they are for your convenience:
+Here they are for your convenience:
 
 * `cargo version`: Show version information to confirm Cargo is installed.
 * `cargo new`: Create a new project.
